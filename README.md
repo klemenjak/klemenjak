@@ -1,5 +1,9 @@
 ### Servus 👋
 
+- 🔭 I’m currently working towards the final version of my PhD thesis.
+- :rocket: I will be looking for new challenges soon. Feel free to forward job openings.
+- ⚡ Fun fact: Satoshi Nakamoto and I have never been spotted in the same room.
+- 📫 How to reach me: klemenjak [at] ieee.org
 
 #### 📕 Latest Blog Posts
 
