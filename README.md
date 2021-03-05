@@ -4,10 +4,9 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring SynD with NILMTK!](https://klemenjak.github.io/posts/2019/11/blog-post-11/)
-- [A step-by-step manual for installing NILMTK](https://klemenjak.github.io/posts/2019/04/blog-post-3/)
-- [Analysing Energy Datasets with NILMTK](https://klemenjak.github.io/posts/2018/10/blog-post-7/)
-- [YoMoPie - A User-Oriented Energy Monitor based on the Raspberry Pi](https://klemenjak.github.io/posts/2018/08/blog-post-4/)
+- [A step-by-step manual for installing NILMTK](https://klemenjak.medium.com/a-step-by-step-manual-for-installing-nilmtk-bff86e3aa418)
+- [Setting up Conda & Scikit-Learn for Teaching](https://klemenjak.medium.com/setting-up-scikit-learn-with-conda-89162cf8d9e9)
+- [YoMoPie - A User-Oriented Energy Monitor based on the Raspberry Pi](https://klemenjak.medium.com/a-user-oriented-energy-monitor-based-on-the-raspberry-pi-b1fa93174cf0)
 <!-- BLOG-POST-LIST:END -->
 
 #### &#x1f4c8; GitHub Stats
