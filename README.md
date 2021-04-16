@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christoph.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klemenjak&label=Profile%20views&color=0e75b6&style=flat" alt="klemenjak" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cklemenjak" target="blank"><img src="https://img.shields.io/twitter/follow/cklemenjak?logo=twitter&style=for-the-badge" alt="cklemenjak" /></a> </p>
-
 - 🔭 I’m currently working on the final version of my PhD thesis.
 
 - 🚀 I will be looking for new challenges soon. **Feel free to forward job openings.**
