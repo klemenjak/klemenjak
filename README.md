@@ -31,6 +31,9 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Scikit learn with Conda](https://klemenjak.medium.com/setting-up-scikit-learn-with-conda-89162cf8d9e9?source=rss-26543efaa5c------2)
+- [A step-by-step manual for installing NILMTK.](https://klemenjak.medium.com/a-step-by-step-manual-for-installing-nilmtk-bff86e3aa418?source=rss-26543efaa5c------2)
+- [A User-Oriented Energy Monitor based on the Raspberry Pi](https://klemenjak.medium.com/a-user-oriented-energy-monitor-based-on-the-raspberry-pi-b1fa93174cf0?source=rss-26543efaa5c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
