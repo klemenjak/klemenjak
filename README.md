@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klemenjak&label=Profile%20views&color=0e75b6&style=flat" alt="klemenjak" /> </p>
 
 
-- 🔭 I’m currently working on the final version of my PhD thesis.
+- 🔭 I’m currently working on my PhD thesis.
 
 - 🚀 I will be looking for new challenges soon. **Feel free to forward job openings.**
 
