@@ -31,6 +31,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to deal with NILMTK energy data sets using Pandas](https://klemenjak.medium.com/how-to-deal-with-nilmtk-energy-data-sets-using-pandas-b43d7a1587f1?source=rss-26543efaa5c------2)
 - [Setting up Scikit learn with Conda](https://klemenjak.medium.com/setting-up-scikit-learn-with-conda-89162cf8d9e9?source=rss-26543efaa5c------2)
 - [A step-by-step manual for installing NILMTK.](https://klemenjak.medium.com/a-step-by-step-manual-for-installing-nilmtk-bff86e3aa418?source=rss-26543efaa5c------2)
 - [A User-Oriented Energy Monitor based on the Raspberry Pi](https://klemenjak.medium.com/a-user-oriented-energy-monitor-based-on-the-raspberry-pi-b1fa93174cf0?source=rss-26543efaa5c------2)
