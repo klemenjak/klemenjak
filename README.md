@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my PhD thesis.
 
-- 🚀 I will be looking for new challenges soon. **Feel free to forward job openings.**
+- 🚀 Per Aspera ad Astra.
 
 - 📝 I regularly write articles on [https://klemenjak.medium.com/](https://klemenjak.medium.com/)
 
