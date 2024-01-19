@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christoph.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klemenjak&label=Profile%20views&color=0e75b6&style=flat" alt="klemenjak" /> </p>
 
-- 🔭 I’m currently working on my PhD thesis.
-
 - 🚀 Per Aspera ad Astra.
 
-- 📝 I regularly write articles on [https://klemenjak.medium.com/](https://klemenjak.medium.com/)
+- 📝 Find some posts on [https://klemenjak.medium.com/](https://klemenjak.medium.com/)
 
 - 📫 How to reach me **klemenjak[@]ieee.org**
-
-- 🌱 I’m currently learning **Julia.**
-
-- 💬 Ask me about **anything.**
-
-
 
 #### 🔧 Technologies & Tools
 
